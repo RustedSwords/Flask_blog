@@ -46,7 +46,7 @@ A simple, dynamic blog application built using Flask. This project features esse
 
 6. **Run the application**:
     ```bash
-    flask run
+    python run.py
     ```
 
    The application will start locally at `http://127.0.0.1:5000`.
