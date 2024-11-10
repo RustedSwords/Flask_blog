@@ -1,6 +1,7 @@
 # Flask Blog
 
 A simple, dynamic blog application built using Flask. This project features essential blog functionalities like user authentication, post creation, updating, deletion, and more. It provides a clean, intuitive UI for easy navigation and user interaction.
+![](Screenshot.png)
 
 ## Features
 
