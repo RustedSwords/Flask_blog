@@ -1,0 +1,6 @@
+flask=3.0.3=py311h06a4308_0
+flask-bcrypt=1.0.1=py311h06a4308_0
+flask-login=0.6.3=py311h06a4308_0
+flask-mail=0.9.1=py_2
+flask-sqlalchemy=3.1.1=py311h06a4308_0
+flask-wtf=1.2.1=py311h06a4308_0
