@@ -59,23 +59,6 @@ A simple, dynamic blog application built using Flask. This project features esse
 - **Create/Update/Delete Posts**: Create new posts, update existing ones, or delete posts.
 - **Profile Management**: Update your profile and view your posts.
 
-## Project Structure
-
-```plaintext
-Flask_blog/
-├── flaskblog/
-│   ├── __init__.py            # Initializes Flask app and configures extensions
-│   ├── forms.py               # Contains forms for user login, registration, and posts
-│   ├── models.py              # Defines database models (User, Post)
-│   ├── routes.py              # Application routes and views
-│   └── static/                # Static files (CSS, JS, images)
-│   └── templates/             # HTML templates for different pages
-├── migrations/                # Database migrations
-├── .env                       # Environment variables (add your secret keys here)
-├── config.py                  # Configuration settings for Flask app
-└── run.py                     # Run the application
-```
-
 ## Dependencies
 
 All required dependencies are listed in the requirements.txt file. They include:
